@@ -1,5 +1,5 @@
 # MS-analysis
-Python functions for solving structures formed by TMAPS and TEOS from MS spectrum
+Python functions for solving structures formed by TMAPS and TEOS from MMS spectrum
 
 maldi.py for solving structures of TMAPSs and TEOSs;
 
